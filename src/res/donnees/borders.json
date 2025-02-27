@@ -1,0 +1,2064 @@
+[
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["karhold"],
+            "territoryB": ["castleblack"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["karhold"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["karhold"],
+            "territoryB": ["theshiveringsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["castleblack"],
+            "territoryB": ["bayofice"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["castleblack"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["castleblack"],
+            "territoryB": ["karhold"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["castleblack"],
+            "territoryB": ["theshiveringsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["widowswatch"],
+            "territoryB": ["whiteharbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["widowswatch"],
+            "territoryB": ["theshiveringsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["widowswatch"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thestonyshore"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thestonyshore"],
+            "territoryB": ["bayofice"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stoneysept"],
+            "territoryB": ["riverrun"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stoneysept"],
+            "territoryB": ["lannisport"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stoneysept"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stoneysept"],
+            "territoryB": ["blackwater"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stoneysept"],
+            "territoryB": ["harrenhal"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingswood"],
+            "territoryB": ["blackwaterbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingswood"],
+            "territoryB": ["kingslanding"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingswood"],
+            "territoryB": ["thereach"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingswood"],
+            "territoryB": ["theboneway"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingswood"],
+            "territoryB": ["stormsend"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingswood"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingslanding"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingslanding"],
+            "territoryB": ["blackwater"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingslanding"],
+            "territoryB": ["thereach"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingslanding"],
+            "territoryB": ["kingswood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["kingslanding"],
+            "territoryB": ["blackwaterbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["themountainsofthemoon"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["harrenhal"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["blackwater"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["kingslanding"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["blackwaterbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["cracklawpont"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["harrenhal"],
+            "territoryB": ["riverrun"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["harrenhal"],
+            "territoryB": ["stoneysept"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["harrenhal"],
+            "territoryB": ["blackwater"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["harrenhal"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwater"],
+            "territoryB": ["harrenhal"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwater"],
+            "territoryB": ["stoneysept"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwater"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwater"],
+            "territoryB": ["thereach"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwater"],
+            "territoryB": ["kingslanding"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwater"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["lannisport"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["thegoldensound"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["sunsetsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["highgarden"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["thereach"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["blackwater"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["searoadmarches"],
+            "territoryB": ["stoneysept"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["kingswood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["thereach"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["dornishmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["princespass"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["yronwood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["seaofdorne"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theboneway"],
+            "territoryB": ["stormsend"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["saltshore"],
+            "territoryB": ["sunspear"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["saltshore"],
+            "territoryB": ["yronwood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["saltshore"],
+            "territoryB": ["starfall"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["saltshore"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+    
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["yronwood"],
+            "territoryB": ["theboneway"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["yronwood"],
+            "territoryB": ["princespass"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["yronwood"],
+            "territoryB": ["starfall"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["yronwood"],
+            "territoryB": ["saltshore"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["yronwood"],
+            "territoryB": ["sunspear"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["yronwood"],
+            "territoryB": ["seaofdorne"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["starfall"],
+            "territoryB": ["princespass"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["starfall"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["starfall"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["starfall"],
+            "territoryB": ["yronwood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["starfall"],
+            "territoryB": ["saltshore"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thearbor"],
+            "territoryB": ["redwynestraights"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thearbor"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["threetowers"],
+            "territoryB": ["dornishmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["threetowers"],
+            "territoryB": ["oldtown"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["threetowers"],
+            "territoryB": ["redwynestraights"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["threetowers"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["threetowers"],
+            "territoryB": ["princespass"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["princespass"],
+            "territoryB": ["dornishmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["princespass"],
+            "territoryB": ["threetowers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["princespass"],
+            "territoryB": ["starfall"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["princespass"],
+            "territoryB": ["yronwood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["princespass"],
+            "territoryB": ["theboneway"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dornishmarches"],
+            "territoryB": ["thereach"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dornishmarches"],
+            "territoryB": ["highgarden"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dornishmarches"],
+            "territoryB": ["oldtown"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dornishmarches"],
+            "territoryB": ["threetowers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dornishmarches"],
+            "territoryB": ["princespass"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dornishmarches"],
+            "territoryB": ["theboneway"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["blackwater"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["highgarden"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["dornishmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["theboneway"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["kingswood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thereach"],
+            "territoryB": ["kingslanding"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["highgarden"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["highgarden"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["highgarden"],
+            "territoryB": ["redwynestraights"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["highgarden"],
+            "territoryB": ["oldtown"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["highgarden"],
+            "territoryB": ["dornishmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["highgarden"],
+            "territoryB": ["thereach"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["riverrun"],
+            "territoryB": ["seagard"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["riverrun"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["riverrun"],
+            "territoryB": ["thegoldensound"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["riverrun"],
+            "territoryB": ["lannisport"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["riverrun"],
+            "territoryB": ["stoneysept"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["riverrun"],
+            "territoryB": ["harrenhal"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theeyre"],
+            "territoryB": ["themountainsofthemoon"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theeyre"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["themountainsofthemoon"],
+            "territoryB": ["thefingers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["themountainsofthemoon"],
+            "territoryB": ["thetwins"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["themountainsofthemoon"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["themountainsofthemoon"],
+            "territoryB": ["theeyre"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["themountainsofthemoon"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seagard"],
+            "territoryB": ["greywaterwatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seagard"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seagard"],
+            "territoryB": ["riverrun"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seagard"],
+            "territoryB": ["moatcailin"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["moatcailin"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["moatcailin"],
+            "territoryB": ["greywaterwatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["moatcailin"],
+            "territoryB": ["seagard"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["moatcailin"],
+            "territoryB": ["thetwins"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["moatcailin"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["moatcailin"],
+            "territoryB": ["whiteharbor"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["greywaterwatch"],
+            "territoryB": ["bayofice"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["greywaterwatch"],
+            "territoryB": ["flintsfinger"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["greywaterwatch"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["greywaterwatch"],
+            "territoryB": ["seagard"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["greywaterwatch"],
+            "territoryB": ["moatcailin"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["greywaterwatch"],
+            "territoryB": ["winterfell"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["flintsfinger"],
+            "territoryB": ["bayofice"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["flintsfinger"],
+            "territoryB": ["sunsetsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["flintsfinger"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["flintsfinger"],
+            "territoryB": ["greywaterwatch"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dragonstone"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear"],
+            "territoryB": ["seaofdorne"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear"],
+            "territoryB": ["yronwood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear"],
+            "territoryB": ["saltshore"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown"],
+            "territoryB": ["highgarden"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown"],
+            "territoryB": ["redwynestraights"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown"],
+            "territoryB": ["threetowers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown"],
+            "territoryB": ["dornishmarches"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport"],
+            "territoryB": ["thegoldensound"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport"],
+            "territoryB": ["stoneysept"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport"],
+            "territoryB": ["riverrun"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["pike"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["castleblack"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["bayofice"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["thestonyshore"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["greywaterwatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["moatcailin"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["whiteharbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["theshiveringsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["karhold"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor"],
+            "territoryB": ["moatcailin"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor"],
+            "territoryB": ["theshiveringsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor"],
+            "territoryB": ["widowswatch"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend"],
+            "territoryB": ["kingswood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend"],
+            "territoryB": ["theboneway"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend"],
+            "territoryB": ["seaofdorne"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theshiveringsea"],
+            "territoryB": ["castleblack"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theshiveringsea"],
+            "territoryB": ["karhold"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theshiveringsea"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theshiveringsea"],
+            "territoryB": ["whiteharbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theshiveringsea"],
+            "territoryB": ["widowswatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["theshiveringsea"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["castleblack"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["thestonyshore"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["greywaterwatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["flintsfinger"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["sunsetsea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwaterbay"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwaterbay"],
+            "territoryB": ["kingslanding"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwaterbay"],
+            "territoryB": ["kingswood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["blackwaterbay"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thegoldensound"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thegoldensound"],
+            "territoryB": ["sunsetsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thegoldensound"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thegoldensound"],
+            "territoryB": ["lannisport"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thegoldensound"],
+            "territoryB": ["riverrun"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seaofdorne"],
+            "territoryB": ["stormsend"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seaofdorne"],
+            "territoryB": ["theboneway"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seaofdorne"],
+            "territoryB": ["yronwood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seaofdorne"],
+            "territoryB": ["sunspear"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["seaofdorne"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["stormsend"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["seaofdorne"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["sunspear"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["saltshore"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["starfall"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["sunsetsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["highgarden"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["redwynestraights"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["thearbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["threetowers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["starfall"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["westsummersea"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["redwynestraights"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["redwynestraights"],
+            "territoryB": ["thearbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["redwynestraights"],
+            "territoryB": ["threetowers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["redwynestraights"],
+            "territoryB": ["oldtown"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["redwynestraights"],
+            "territoryB": ["highgarden"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["blackwaterbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["kingswood"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["stormsend"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["dragonstone"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["theshiveringsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["widowswatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["whiteharbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["moatcailin"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["thetwins"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["thefingers"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["themountainsofthemoon"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["theeyre"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["cracklawpont"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thefingers"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thefingers"],
+            "territoryB": ["thetwins"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thefingers"],
+            "territoryB": ["themountainsofthemoon"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thetwins"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thetwins"],
+            "territoryB": ["moatcailin"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thetwins"],
+            "territoryB": ["themountainsofthemoon"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thetwins"],
+            "territoryB": ["thefingers"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["flintsfinger"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["sunsetsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["thegoldensound"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["riverrun"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["seagard"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["greywaterwatch"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["pike"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunsetsea"],
+            "territoryB": ["bayofice"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunsetsea"],
+            "territoryB": ["westsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunsetsea"],
+            "territoryB": ["searoadmarches"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunsetsea"],
+            "territoryB": ["thegoldensound"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunsetsea"],
+            "territoryB": ["flintsfinger"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunsetsea"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+
+
+
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell_port"],
+            "territoryB": ["bayofice"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["bayofice"],
+            "territoryB": ["winterfell_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell_port"],
+            "territoryB": ["winterfell"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["winterfell"],
+            "territoryB": ["winterfell_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor_port"],
+            "territoryB": ["whiteharbor"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor"],
+            "territoryB": ["whiteharbor_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["whiteharbor_port"],
+            "territoryB": ["thenarrowsea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thenarrowsea"],
+            "territoryB": ["whiteharbor_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["pike_port"],
+            "territoryB": ["pike"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["pike"],
+            "territoryB": ["pike_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["pike_port"],
+            "territoryB": ["ironmansbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["ironmansbay"],
+            "territoryB": ["pike_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport_port"],
+            "territoryB": ["lannisport"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport"],
+            "territoryB": ["lannisport_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["lannisport_port"],
+            "territoryB": ["thegoldensound"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["thegoldensound"],
+            "territoryB": ["lannisport_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dragonstone_port"],
+            "territoryB": ["dragonstone"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dragonstone"],
+            "territoryB": ["dragonstone_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["dragonstone_port"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["dragonstone_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend_port"],
+            "territoryB": ["stormsend"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend"],
+            "territoryB": ["stormsend_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["stormsend_port"],
+            "territoryB": ["shipbreakerbay"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["shipbreakerbay"],
+            "territoryB": ["stormsend_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear_port"],
+            "territoryB": ["sunspear"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear"],
+            "territoryB": ["sunspear_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["sunspear_port"],
+            "territoryB": ["eastsummersea"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["eastsummersea"],
+            "territoryB": ["sunspear_port"]
+        }
+    },
+
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown_port"],
+            "territoryB": ["oldtown"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown"],
+            "territoryB": ["oldtown_port"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["oldtown_port"],
+            "territoryB": ["redwynestraights"]
+        }
+    },
+    {
+        "model": "game.border",
+        "fields":{
+            "territoryA": ["redwynestraights"],
+            "territoryB": ["oldtown_port"]
+        }
+    }
+]

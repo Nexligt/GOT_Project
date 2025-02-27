@@ -1,0 +1,93 @@
+[
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Ser Davos Seaworth",
+            "tag": "hc_0_0",
+            "family": 0,
+            "power": 2,
+            "description": "If your 'Stannis Baratheon' House card is in your discard pile, this card gains +1 combat strength and a sword icon.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Stannis Baratheon",
+            "tag": "hc_0_1",
+            "family": 0,
+            "power": 4,
+            "description": "If your oppenent has a higher position on the Iron Throne influence track than you, this card gains +1 combat strength.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Brienne of Tarth",
+            "tag": "hc_0_2",
+            "family": 0,
+            "power": 2,
+            "description": "1 sword, 1 tower",
+            "nb_swords": 1,
+            "nb_towers": 1,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Renly Baratheon",
+            "tag": "hc_0_3",
+            "family": 0,
+            "power": 3,
+            "description": "If you win this combat, you may upgrade on of your participating Footmen (or one supporting Baratheon footmen) to a knight.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Melisandre",
+            "tag": "hc_0_4",
+            "family": 0,
+            "power": 1,
+            "description": "1 sword",
+            "nb_swords": 1,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Salladhor Saan",
+            "tag": "hc_0_5",
+            "family": 0,
+            "power": 1,
+            "description": "If you are being supported in this combat, the combat strength of all non-Baratheon Ships is reduced to 0.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Patchface",
+            "tag": "hc_0_6",
+            "family": 0,
+            "power": 0,
+            "description": "At the end of combat, you may look at your opponent's hand and discard one card of your choice.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    }
+]

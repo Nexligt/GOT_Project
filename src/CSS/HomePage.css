@@ -1,0 +1,59 @@
+/* Container principal de la page */
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #00bcd4, #8e44ad); /* Dégradé avec des couleurs plus douces */
+    color: white;
+    font-family: 'Arial', sans-serif;
+    overflow: hidden; /* Empêche le débordement de l'élément pendant l'animation */
+    transition: transform 0.5s ease-in-out; /* Transition pour déplacer la page */
+}
+
+/* Effet de transition vers la gauche */
+.home-container.navigating {
+    transform: translateX(-100%); /* Déplace la page vers la gauche */
+}
+
+/* Style du titre */
+.title {
+    font-size: 36px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; /* Police différente pour le titre */
+}
+
+/* Conteneur des boutons */
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Style des boutons */
+.home-button {
+    background-color: #6a1b9a; /* Couleur principale douce */
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.3s, box-shadow 0.3s;
+    font-family: 'Roboto', sans-serif; /* Police plus moderne */
+}
+
+/* Effet de survol des boutons */
+.home-button:hover {
+    background-color: #9c27b0; /* Couleur plus foncée au survol */
+    transform: scale(1.05); /* Légère mise à l'échelle pour l'effet de survol */
+}
+
+/* Ajout d'ombre autour des boutons pour un effet de profondeur */
+.home-button:focus {
+    outline: none;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.3);
+}

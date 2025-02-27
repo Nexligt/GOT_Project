@@ -1,0 +1,102 @@
+[
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Massing on the Milkwater",
+            "tag": "wic_0",
+            "lowest_bidder": "If he has more than one House card in this hand, he discards all cards with the highest combat strength.",
+            "everyone_else": "If they have more than one House card in their hand, they must choose and discard one of those cards.",
+            "highest_bidder": "Returns his entire House card discard pile into his hand.",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "A King Beyound the Wall",
+            "tag": "wic_1",
+            "lowest_bidder": "Moves his tokens to the lowest position of every Influence track.",
+            "everyone_else": "In turn order, each player chooses either the Fiefdom or King's Court Influence track and moves his token to the lowest position of that track.",
+            "highest_bidder": "Moves this token to the top of one Influence track of his choice, then takes the appropriate Dominance token.",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Preemptive Raid",
+            "tag": "wic_2",
+            "lowest_bidder": "Chooses one the following: A: Destroy 2 of his units anywhere, B: Is reduced 2 positions on his highest Influence Track.",
+            "everyone_else": "Nothing happens.",
+            "highest_bidder": "The wildlings immediately attack again with a strength of 6. You do not participate in the bidding against this attack (nor do you receive anay reward or penalties).",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Mammoth Riders",
+            "tag": "wic_3",
+            "lowest_bidder": "Destroy 3 of his units anywhere.",
+            "everyone_else": "Destroy 2 of their units anywhere.",
+            "highest_bidder": "may retrieve 1 House card of his choice from his House card discard pile.",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Silence at the wall",
+            "tag": "wic_4",
+            "lowest_bidder": "Nothing happens.",
+            "everyone_else": "Nothing happens.",
+            "highest_bidder": "Nothing happens.",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Rattleshirt's Raiders",
+            "tag": "wic_5",
+            "lowest_bidder": "Is reduced 2 positions on the supply track (to no lower than 0).",
+            "everyone_else": "Is reduced 1 position on the supply track (to no lower than 0).",
+            "highest_bidder": "In increased 1 position on the supply track (to no higher than 6).",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Crow Killers",
+            "tag": "wic_6",
+            "lowest_bidder": "Replaces all of his Knights with available Footmen. Any Knight unable to be replaced is destroyed.",
+            "everyone_else": "Replaces 2 of their Knights with available Footmen. Any Knight unable to be replaced is destroyed.",
+            "highest_bidder": "May immediatly replace up to 2 of his Footmen, anywhere, with available Knights.",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "Skinchanger Scout",
+            "tag": "wic_7",
+            "lowest_bidder": "Discard all available Power token.",
+            "everyone_else": "Discards 2 available Power token, or as many as they are able.",
+            "highest_bidder": "All Power tokens he bid on this attack are immediatly returned to his available Power.",
+            "image": ""
+        }
+    },
+    {
+        "model": "game.wildlingscard",
+        "fields":{
+            "name": "The Horde Descends",
+            "tag": "wic_8",
+            "lowest_bidder": "Destroys 2 of his units at one of his Castles or Strongholds. If unable, he destroys 2 of his units anywhere.",
+            "everyone_else": "Destroys 1 of his unit anywhere.",
+            "highest_bidder": "May muster forces (following normal mustering rules) in any one Castle or Stronghold are he controls.",
+            "image": ""
+        }
+    }
+    
+]

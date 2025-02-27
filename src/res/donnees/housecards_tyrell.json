@@ -1,0 +1,97 @@
+
+
+[
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Margaery Tyrell",
+            "tag": "hc_5_0",
+            "family": 5,
+            "power": 1,
+            "description": "1 tower",
+            "nb_swords": 0,
+            "nb_towers": 1,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Queen of Thorns",
+            "tag": "hc_5_1",
+            "family": 5,
+            "power": 0,
+            "description": "Immediatly remove on of your oppopent's Order tokens in any one area adjacent to the embattled area. You may not remove the March Order token used to start this combat.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Mace Tyrell",
+            "tag": "hc_5_2",
+            "family": 5,
+            "power": 4,
+            "description": "Immediatly destroy one of your oppopent's attacking of defending Footmen units.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Alester Florent",
+            "tag": "hc_5_3",
+            "family": 5,
+            "power": 1,
+            "description": "1 tower",
+            "nb_swords": 0,
+            "nb_towers": 1,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Ser Loras Tyrell",
+            "tag": "hc_5_4",
+            "family": 5,
+            "power": 3,
+            "description": "If you are attacking and win this combat, move the March Order token into the conquerred area (instead of discarding it). The March Order may be resolved again later this round.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Ser Garlan Tyrell",
+            "tag": "hc_5_5",
+            "family": 5,
+            "power": 2,
+            "description": "2 swords",
+            "nb_swords": 2,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Randyll Tarly",
+            "tag": "hc_5_6",
+            "family": 5,
+            "power": 2,
+            "description": "1 sword",
+            "nb_swords": 1,
+            "nb_towers": 0,
+            "image": ""
+        }
+    }
+
+   
+]

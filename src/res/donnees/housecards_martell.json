@@ -1,0 +1,96 @@
+
+
+[
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Darkstar",
+            "tag": "hc_3_0",
+            "family": 3,
+            "power": 2,
+            "description": "1 sword",
+            "nb_swords": 1,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Obara Sand",
+            "tag": "hc_3_1",
+            "family": 3,
+            "power": 2,
+            "description": "1 sword",
+            "nb_swords": 1,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Aero Hotah",
+            "tag": "hc_3_2",
+            "family": 3,
+            "power": 3,
+            "description": "1 tower",
+            "nb_swords": 0,
+            "nb_towers": 1,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Arianne Martell",
+            "tag": "hc_3_3",
+            "family": 3,
+            "power": 1,
+            "description": "If you are defending and lose this combat, your opponent may not move his units into the embattled area. They return to the area from which they marched. Your own unit must still retreat.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Doran Martell",
+            "tag": "hc_3_4",
+            "family": 3,
+            "power": 0,
+            "description": "Immediately move your oppopent to the bottom of one Influence track of your choice.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "The Red Viper",
+            "tag": "hc_3_5",
+            "family": 3,
+            "power": 4,
+            "description": "2 swords, 1 tower",
+            "nb_swords": 2,
+            "nb_towers": 1,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Nymeria Sand",
+            "tag": "hc_3_6",
+            "family": 3,
+            "power": 1,
+            "description": "If you are defending, this card gains a fortification icon. If you are attacking, this card gains a sword icon.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    }
+   
+]

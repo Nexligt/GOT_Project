@@ -1,0 +1,188 @@
+/* Style du bouton plein écran pour entrer dans le jeu */
+.full-page-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Plein écran */
+    width: 100vw; 
+    background: linear-gradient(135deg, #4a0072, #6a1b9a, #9c27b0); /* Dégradé violet intense */
+    color: white;
+    text-align: center;
+    cursor: pointer; /* Curseur interactif */
+    transition: background 0.3s ease-in-out, transform 0.1s ease-in-out;
+}
+
+/* Effet au survol du bouton */
+.full-page-button:hover {
+    background: linear-gradient(135deg, #6a1b9a, #4a0072); /* Effet inversé au survol */
+    transform: scale(1.02); /* Petit effet zoom */
+}
+
+/* Style du titre principal */
+.welcome-title {
+    font-size: 3.5rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Style du sous-titre */
+.welcome-subtitle {
+    font-size: 1.8rem;
+    font-style: italic;
+    opacity: 0.9;
+    margin-bottom: 10px;
+}
+
+/* Style du texte d'accueil */
+.welcome-text {
+    font-size: 1.3rem;
+    opacity: 0.8;
+}
+
+.lobby-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    background: linear-gradient(135deg, #1e1e2e, #2a2a3a);
+    min-height: 100vh;
+}
+
+/* Nom du joueur */
+.player-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Sélection du nombre de joueurs */
+.num-players-selection {
+    margin-bottom: 20px;
+}
+
+.num-players-selection select {
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+/* Espacement entre les boutons "Nouveau Match" et "Rafraîchir" */
+.button-group {
+    display: flex;
+    gap: 15px; /* Augmente l'espace entre les boutons */
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+/* Tableau des matchs */
+.matches-container {
+    margin-top: 20px;
+}
+
+.matches-table {
+    width: 100%;
+    border-collapse: collapse;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.matches-table th,
+.matches-table td {
+    padding: 10px;
+    text-align: center;
+}
+
+.matches-table th {
+    background: rgba(255, 255, 255, 0.2);
+    font-weight: bold;
+}
+
+.matches-table tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.05);
+}
+
+/* Liste des matchs rejoints */
+.joined-matches {
+    margin-top: 30px;
+    max-width: 600px;
+}
+
+/* Style des éléments de la liste des matchs */
+.match-item {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; /* Ajoute un espacement interne entre les éléments */
+}
+
+/* Alignement du Match ID, de l’état et du bouton Quitter */
+.match-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px; /* Espacement entre chaque élément */
+}
+
+/* Match ID */
+.match-id {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Texte en attente */
+.waiting-players {
+    color: orange;
+    font-size: 14px;
+}
+
+/* Liste des joueurs */
+.players-list {
+    margin-top: 10px;
+    padding-left: 20px;
+}
+
+/* Boutons */
+.btn {
+    padding: 8px 12px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+    color: white;
+}
+
+/* Styles spécifiques des boutons */
+.new-match-btn {
+    background-color: #4CAF50;
+}
+
+.refresh-btn {
+    background-color: #2196F3;
+}
+
+.join-btn {
+    background-color: #FFD700;
+    color: black;
+}
+
+.leave-btn {
+    background-color: #FF5733;
+}
+
+.play-btn {
+    background-color: #28a745;
+}
+
+/* Effet au survol des boutons */
+.btn:hover {
+    opacity: 0.8;
+}

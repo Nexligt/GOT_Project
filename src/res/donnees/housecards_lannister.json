@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ser Kevan Lannister",
+    "tag": "hc_2_0",
+    "family": 2,
+    "power": 1,
+    "description": "If you are attacking, all of your participating Footemen (including supporting Lannister Footmen) add +2 combat strength instead of +1.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Ser Jaime Lannister",
+    "tag": "hc_2_1",
+    "family": 2,
+    "power": 2,
+    "description": "1 sword",
+    "nb_swords": 1,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "The Hound",
+    "tag": "hc_2_2",
+    "family": 2,
+    "power": 2,
+    "description": "2 towers",
+    "nb_swords": 0,
+    "nb_towers": 2,
+    "image": ""
+  },
+  {
+    "name": "Tywin Lannister",
+    "tag": "hc_2_3",
+    "family": 2,
+    "power": 4,
+    "description": "If you win this combat, gain two Power tokens.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Ser Gregor Cleagane",
+    "tag": "hc_2_4",
+    "family": 2,
+    "power": 3,
+    "description": "3 swords",
+    "nb_swords": 3,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Cersei Lannister",
+    "tag": "hc_2_5",
+    "family": 2,
+    "power": 0,
+    "description": "If you win this combat, you may remove one of the losing oppopent's Order tokens from anywhere on the board.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Tyrion Lannister",
+    "tag": "hc_2_6",
+    "family": 2,
+    "power": 1,
+    "description": "You may cancel your opponent's chosen House card and return it to his hand. He must then choose a different House card to reveal. If he has no order House card in hand, he cannot use a House card this combat.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Eddard Stark",
+    "tag": "hc_4_0",
+    "family": 4,
+    "power": 4,
+    "description": "2 swords",
+    "nb_swords": 2,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Robb Stark",
+    "tag": "hc_4_1",
+    "family": 4,
+    "power": 3,
+    "description": "If you win this combat, you may choose the area to which your opponent retreats. You must choose a legal area where your oppopent loses the fewest units.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Creation Umber",
+    "tag": "hc_4_2",
+    "family": 4,
+    "power": 2,
+    "description": "1 sword",
+    "nb_swords": 1,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Catelyn Stark",
+    "tag": "hc_4_3",
+    "family": 4,
+    "power": 0,
+    "description": "If you have a Defense Order token in the embattled area, its value is doubled.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Roose Bolton",
+    "tag": "hc_4_4",
+    "family": 4,
+    "power": 2,
+    "description": "If you lose this combat, return your entier House Card discard pile into your hand (including this card).",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  },
+  {
+    "name": "Ser Rodrick Cassel",
+    "tag": "hc_4_5",
+    "family": 4,
+    "power": 2,
+    "description": "2 towers",
+    "nb_swords": 0,
+    "nb_towers": 2,
+    "image": ""
+  },
+  {
+    "name": "The Blackfish",
+    "tag": "hc_4_6",
+    "family": 4,
+    "power": 1,
+    "description": "You do not take casualties in this combat from House card abilities, Combat icons or Tides of Battle cards.",
+    "nb_swords": 0,
+    "nb_towers": 0,
+    "image": ""
+  }
+]

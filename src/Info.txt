@@ -1,0 +1,14 @@
+Utiliser Node.js 20.17.0 sinon le serveur ne se lance plus
+
+Pour lancer le serveur : npm run serve
+Pour lancer le client avec l'environnement en mode développement : npm start
+
+En local, on peut simuler la connection de plusieurs utilisateurs en utilisant différent navigateurs
+
+PREVENTION D'ERREUR POSSIBLE :
+
+-TOUJOURS UTILISER LES {} POUR G ET CTX EN ARGUMENT D'UNE FONCTION EX: ({ G, ctx }, territory, orderType) OU ({G, ctx}) SINON ON A PAS ACCES AUX VARIABLES.
+-Un appel d'une méthode comprenant {G, ctx} depuis Game.js soit être fait en indiquant en paramètre {G, ctx} sinon une erreur apparait (EX: setPlayerMessage({ G, playerID}, "Order placed successfully.", "green");) , depuis Board.js cette indication est inutile (EX: setPlayerMessage("Order placed successfully.", "green");)
+-Lors de la définition du jeu éviter d'avoir le endIf() à true dirrectement sinon la phase est complétement ignorée, c-a-d que les méthode de onBegin() et onEnd() ne seront pas effectué.
+
+

@@ -1,0 +1,95 @@
+
+
+[
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Theon Greyjoy",
+            "tag": "hc_1_0",
+            "family": 1,
+            "power": 2,
+            "description": "If you are defending an area that contains either a Stronghold or a Castle, this card gains +1 combat strength and a sword icon.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Victarion Greyjoy",
+            "tag": "hc_1_1",
+            "family": 1,
+            "power": 3,
+            "description": "If you are attacking, all of your participating ships (including supporting Greyoy ships) add +2 to combat stength instead of +1.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Dagmer Cleftiaw",
+            "tag": "hc_1_2",
+            "family": 1,
+            "power": 1,
+            "description": "1 sword, 1 tower",
+            "nb_swords": 1,
+            "nb_towers": 1,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Aeron Damphair",
+            "tag": "hc_1_3",
+            "family": 1,
+            "power": 0,
+            "description": "You may immediately discard two of your available Power tokens to discard Aeron Damphair and choose a different House Card from your hand (if able).",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Asha Greyjoy",
+            "tag": "hc_1_4",
+            "family": 1,
+            "power": 1,
+            "description": "If you are not being supported in this round, this card gains two sword icons and one fortification icon.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Euron Crow's Eye",
+            "tag": "hc_1_5",
+            "family": 1,
+            "power": 4,
+            "description": "1 sword",
+            "nb_swords": 1,
+            "nb_towers": 0,
+            "image": ""
+        }
+    },
+    {
+        "model": "game.housecard",
+        "fields":{
+            "name": "Balon Greyjoy",
+            "tag": "hc_1_6",
+            "family": 1,
+            "power": 2,
+            "description": "The printed combat strength of your opponent's House card is reduced to 0.",
+            "nb_swords": 0,
+            "nb_towers": 0,
+            "image": ""
+        }
+    }
+]
